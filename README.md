@@ -1,7 +1,10 @@
-# -
-第一阶段比赛后的总结
-参考的baseline是https://github.com/jt120/tianchi_ship_2019
-天池智慧海洋比赛2019 https://tianchi.aliyun.com/competition/entrance/231768/introduction?spm=5176.12281949.1003.1.493e5cfde2Jbke
+天池智慧海洋比赛2019第一阶段比赛的总结
+
+参考的baseline是
+https://github.com/jt120/tianchi_ship_2019
+
+天池智慧海洋比赛2019 
+https://tianchi.aliyun.com/competition/entrance/231768/introduction?spm=5176.12281949.1003.1.493e5cfde2Jbke
 
 成绩在0.85左右，做了一些特征工程，主要使用了lightgbm,catboost,xgboost等。
 
